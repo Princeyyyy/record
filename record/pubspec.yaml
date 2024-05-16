@@ -11,12 +11,12 @@ dependencies:
     sdk: flutter
 
   # https://pub.dev/packages/uuid
-  uuid: ">=3.0.7 <5.0.0"
+  uuid: 4.4.0
 
   record_platform_interface: ^1.0.2
   record_web: ^1.0.5
   record_windows: ^1.0.2
-  record_linux: '>=0.5.0 <1.0.0'
+  record_linux: 0.7.1
   record_android: ^1.1.0
   record_darwin: ^1.0.1
 
