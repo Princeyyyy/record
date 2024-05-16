@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  record_platform_interface: ^1.0.2
+  record_platform_interface: 1.0.2
 
 dev_dependencies:
   flutter_test:
